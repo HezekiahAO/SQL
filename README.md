@@ -53,8 +53,6 @@ INSERT INTO flexi
 VALUES (6, 'David', 'Wilson', '987 Cedar St', 'Lawyer', '2024-06-10');
 ```
 
-> **Note:** In my original draft, the first `INSERT` block was missing its closing semicolon before the next statement — fixed above. Also, the column-less `INSERT INTO flexi VALUES (...)` works but is best practice to avoid, since it silently breaks if the table's column order ever changes.
-
 ### Delete
 
 ```sql
