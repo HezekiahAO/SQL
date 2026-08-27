@@ -76,7 +76,7 @@ VALUES (3, 'David', 'Wilson', '987 Cedar St', 'Lawyer', '2024-06-10');
 ### Revert an update
 
 ```sql
-UPDATE flexi SET occupation = 'Engineer' WHERE id = 1;
+UPDATE flexi SET occupation = 'CEO' WHERE id = 1;
 ```
 
 ## Tools Used
