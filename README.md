@@ -80,7 +80,7 @@ UPDATE flexi SET occupation = 'CEO' WHERE id = 1;
 ```
 
 ## Tools Used
-- [SQLTutorial.org](https://www.sqltutorial.org/) — core lessons and reference
-- VS Code + SQL extension — for writing, running, and viewing queries/tables locally, beyond the browser-only tutorial environment
+- [SQLTutorial.org](https://www.sqltutorial.org/) core lessons and reference
+- VS Code + SQL extension for writing, running, and viewing queries/tables locally, beyond the browser-only tutorial environment
 
 ![alt text](image.png)
